@@ -169,3 +169,16 @@ Mac
 
 6. Many users will use it or might have used it for desktop applications only, but it also provides great tool support for Web Technologies like; HTML, CSS, JSON.
 
+--- 
+
+## Reference
+Ruf, D., 2021. PyCharm vs VSCode Detailed Comparison | Career Karma. [online] Career Karma. Available at: <https://careerkarma.com/blog/pycharm-vs-vscode/> [Accessed 23 August 2021].
+
+---
+
+Guru99.com. 2021. Linux vs Windows: What is the Difference Between Linux and Windows?. [online] Available at: <https://www.guru99.com/linux-differences.html> [Accessed 23 August 2021].
+
+---
+Ravoof, S., 2021. GitLab vs GitHub: Explore Their Major Differences and Similarities. [online] Kinsta. Available at: <https://kinsta.com/blog/gitlab-vs-github/> [Accessed 23 August 2021].
+
+Intellipaat Blog. 2021. GitLab vs GitHub: Top 10 Differences between GitHub and GitLab. [online] Available at: <https://intellipaat.com/blog/gitlab-vs-github-difference/> [Accessed 23 August 2021].
