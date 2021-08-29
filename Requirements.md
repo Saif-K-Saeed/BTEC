@@ -5,7 +5,7 @@
 
 ### **Schedule Risk:**
 
- Project schedule get slip when project tasks and schedule release risks are not addressed properly. Schedule risks mainly affect a project and finally on company economy and may lead to project failure.
+ Project schedule get slip when project tasks and schedule release risks are not addressed properly. Schedule risks mainly affect a project  and may lead to project failure.
 
 - Time is not estimated perfectly
 - Improper resource allocation
