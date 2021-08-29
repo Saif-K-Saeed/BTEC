@@ -48,12 +48,10 @@ Programmatic risks refers to the external risk or other unavoidable risks. These
 ## Functional Requirements
 
 - The system shall display a list of all products offered by the shop
-- The system shall organize the list of products by product category.  
+- The system shall organize the list of products by product category.
 - The system shall display detailed product descriptions consisting of names. photograph. price and text of description on demand.
-- The system shall allow the items in the catalog to be searched.
-- The system shall display detailed information on the selected products.
-- The system shall enable the user to enter the search text on the screen.
-- The system shall notify the user when no matching product is found
+- The system shall have a cart shopping with all specific details of the purchases.
+- The system shall have an online payment method as it's online shopping.
 .
 
 ## WireFrame
