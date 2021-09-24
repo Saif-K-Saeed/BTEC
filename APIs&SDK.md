@@ -1,4 +1,4 @@
-# APIs and SDK 
+# APIs and SDK
 
 ## What is an API?
 
@@ -33,14 +33,15 @@ Composite APIs, as the name implies, combine several data and service APIs to pr
 - Providing new services to end-users with maximum efficiency.
 
 ## The differences between API and SDK
+
  *API* | *SDK*
 ---------- |------------
- An API establishes communication between two applications. | SDK is the toolbox and all you need to build applications from scratch. 
+ An API establishes communication between two applications. | SDK is the toolbox and all you need to build applications from scratch.
  APIs cannot contain SDKs.|An SDK may contain APIs
- APIs cannot build an. application|SDKs use APIs to make communication between two applications possible. 
+ APIs cannot build an. application|SDKs use APIs to make communication between two applications possible.
  An API is essentially an interface for applications. |SDKs are tools used to build applications
   APIs do not have code libraries and are easy to modify |SDKs are easy to use and faster to integrate.
-APIs deliver a request from one app to another software and deliver a response back to the requesting app. |SDKs contain all you need to communicate with another software and all you need to build software. 
+APIs deliver a request from one app to another software and deliver a response back to the requesting app. |SDKs contain all you need to communicate with another software and all you need to build software.
 APIs only come in when there is a need to have external communication with other platforms. |Devs always use an SDK to build apps
 
 ---
@@ -51,4 +52,3 @@ APIs only come in when there is a need to have external communication with other
 (What is an SDK? What do SDKs do? Find out here | Adjust | Adjust, 2021)
 (What is an Application Programming Interface? - Jelvix, 2021)
 (What’s the Difference Between an API vs an SDK? - Jelvix, 2021)
-
