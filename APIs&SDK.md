@@ -4,7 +4,7 @@
 
 **API** is the abbreviation for Application Programming Interface. An **API** is a software interface that enables two programs to communicate with one another. In other words, an **API** acts as a messenger, delivering your request to the service provider and then returning the result to you.
 
-## What is an API?
+## What is an SDK?
 
 The Software Development Kit, or **SDK**, is exactly what its name implies. It's a software development kit (**SDK**), which is a collection of tools that allows a programmer to create a bespoke app that can be added to or connected to another program. **SDK**s enable programmers to create apps for a particular platform. **SDK**s allow developers to add extra functionality to programs, as well as provide ads and push alerts to the system
 
@@ -49,6 +49,9 @@ APIs only come in when there is a need to have external communication with other
 ### Reference
 
 (What is API: Definition, Types, Specifications, Documentation, 2021)
+
 (What is an SDK? What do SDKs do? Find out here | Adjust | Adjust, 2021)
+
 (What is an Application Programming Interface? - Jelvix, 2021)
+
 (What’s the Difference Between an API vs an SDK? - Jelvix, 2021)
