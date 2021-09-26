@@ -2,7 +2,7 @@
 
 ## What is an API?
 
-**API** is the abbreviation for Application Programming Interface. An **API** is a software interface that enables two programs to communicate with one another. In other words, an **API** acts as a messenger, delivering your request to the service provider and then returning the result to you.
+**API** stands for Application Programming Interface. An **API** is a software interface that enables two programs to communicate with one another. In other words, an **API** acts as a messenger, delivering your request to the service provider and then returning the result to you.
 
 ## What is an SDK?
 
