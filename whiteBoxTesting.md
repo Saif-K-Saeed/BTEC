@@ -27,3 +27,8 @@ here we create a variable to cover if the user use UpperCase or LowerCase
 
 We'll pass in a list of movies as props, use the map function to loop over these movies For each movie, we'll display an image using the Poster URL as the image source
 ![9](img/9.png)
+
+
+We render and make sure the result of the is stored as an internal state. Next, we look up the Link components and get the property of every link.
+Finally, we assert that the links are rendered in a certain order. And that the to property matches the links we’ve passed.
+![10](img/10.png)
