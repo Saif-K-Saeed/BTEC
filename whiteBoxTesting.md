@@ -23,3 +23,7 @@ we have the render  that will collect the forms sections lists or the structure 
 
 here we create a variable to cover if the user use UpperCase or LowerCase
 ![8](img/8.png)
+
+
+We'll pass in a list of movies as props, use the map function to loop over these movies For each movie, we'll display an image using the Poster URL as the image source
+![9](img/9.png)
