@@ -13,7 +13,6 @@ Requirements | [vist it]( https://saif-k-saeed.github.io/BTEC/Requirements)
 
 ## BTEC-301
 
-APIs and SDK 
  *Neme of the read* | *Link of it*
 ---------- |------------
 APIs and SDK | [vist it]( https://saif-k-saeed.github.io/BTEC/APIs&SDK)
