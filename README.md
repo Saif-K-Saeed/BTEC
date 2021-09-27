@@ -2,8 +2,6 @@
 
 ## BTEC-201
 
-### Tooling
-
  *Neme of the read* | *Link of it*
 ---------- |------------
 Tooling | [vist it]( https://saif-k-saeed.github.io/BTEC/tooling)
